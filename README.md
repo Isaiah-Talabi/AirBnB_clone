@@ -32,4 +32,4 @@ $
 Contact Info:
 
 Git: Isaiah-Talabi
-pleease insert your git user name
+james448-max
